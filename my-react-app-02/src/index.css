@@ -1,0 +1,48 @@
+.card{
+    border: 5px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 400px;
+    display: inline-block;
+}
+
+.card-image{
+    border:5px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    
+}
+
+.text{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 200%;
+   cursor: pointer;
+}
+.text:hover{
+    color: hsl(0, 0%, 50%);
+    cursor: pointer;
+}
+
+.sign{
+    margin-right: 10px;
+    border-radius: 10px;
+    color: rgb(156, 58, 58);
+    background-color:rgb(234, 180, 180) ;
+    
+}
+.follow{
+    margin-right: 10px;
+    border-radius: 10px;
+    color: rgb(156, 58, 58);
+    background-color:rgb(234, 180, 180) ;
+}
+.donate{
+    margin-right: 10px;
+    border-radius: 10px;
+    color: rgb(156, 58, 58);
+    background-color:rgb(234, 180, 180) ;
+    margin-top: 10px;
+}
