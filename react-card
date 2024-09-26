@@ -1,0 +1,8 @@
+function Card(){
+return(
+<div>
+<button></button>
+</div>
+);
+}
+export defualt Card
