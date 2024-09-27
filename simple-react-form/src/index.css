@@ -1,0 +1,125 @@
+.form-data{
+    border: 2px solid rgb(103, 219, 64);
+    max-width: 450px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.head{
+    color: rgb(103, 219, 64);
+    text-align: center;
+}
+p{
+    color: rgb(59, 102, 46);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+    
+}
+.fname{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: rgb(58, 220, 66);
+}
+.lname{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: rgb(58, 220, 66);
+
+}
+.mail{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: rgb(58, 220, 66);
+
+}
+.number{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: rgb(58, 220, 66);
+
+}
+.gender{
+    margin-left: 150px;
+}
+.subject{
+    margin-left: 150px;
+}
+
+.resume{
+    max-width:500px;
+
+}
+.url{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: rgb(58, 220, 66);
+
+}
+.choice{
+    margin-left: 15px;
+    border-radius: 5px;
+    border-color:  rgb(58, 220, 66);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 85%;
+}
+
+.about{
+    border-radius: 5px;
+    border-color:  rgb(58, 220, 66);
+    max-width: 100%;
+
+}
+
+.reset{
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgb(58, 220, 66);
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.reset:hover{
+    color: rgb(58, 220, 66) ;
+    background-color: white;
+    border-color: rgb(58, 220, 66);
+    border: solid;
+}
+.send{
+    margin-top: 5px;
+    margin-right: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgb(58, 220, 66);
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.send:hover{
+    color: rgb(58, 220, 66) ;
+    background-color: white;
+    border-color: rgb(58, 220, 66);
+    border: solid;
+}
